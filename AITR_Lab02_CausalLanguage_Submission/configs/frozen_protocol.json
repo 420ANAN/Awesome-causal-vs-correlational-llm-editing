@@ -1,0 +1,27 @@
+{
+  "protocol": "Source-guided modern BioBERT 5-fold classification reproduction",
+  "dataset_sha256_observed": "f3e50fb07bfe9c9dcbbe3bbfcf0a27e71d460e06895b2867002a61c34ee1f202",
+  "model_id": "dmis-lab/biobert-base-cased-v1.1",
+  "model_revision": "924f12e0c3db7f156a765ad53fb6b11e7afedbc8",
+  "outer_folds": 5,
+  "seed": 0,
+  "internal_validation": "separately seeded torch permutation 5 percent",
+  "epochs": 5,
+  "batch_size": 32,
+  "eval_batch_size": 8,
+  "max_seq_length": 128,
+  "learning_rate": 2e-05,
+  "warmup_fraction": 0.1,
+  "total_steps_per_fold": 365,
+  "optimizer": "Historical-style BertAdam adapted to modern PyTorch",
+  "loss": "arithmetic mean of per-example full-corpus-weighted cross entropy",
+  "class_counts": [
+    1356,
+    494,
+    213,
+    998
+  ],
+  "train_workers": 0,
+  "checkpoint_rule": "final epoch",
+  "historical_equivalence": "unverified"
+}

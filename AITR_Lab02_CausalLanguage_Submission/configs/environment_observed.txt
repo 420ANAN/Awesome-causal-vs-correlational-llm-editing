@@ -1,0 +1,11 @@
+SOURCE: User-printed Google Colab package diagnostic during baseline development (not an install-tested lockfile).
+Python 3.13.16
+PyTorch 2.14.1+cu130
+Transformers 5.22.1
+Hugging Face Hub 1.33.0
+NumPy 2.4.6
+Pandas 2.2.3
+scikit-learn 1.6.1
+safetensors 0.8.0
+GPU Tesla T4; CUDA True
+[TO VERIFY] exact CUDA driver, torchvision compatibility, complete pip freeze, system libraries, original notebook runtime and all packages actually imported at training time.

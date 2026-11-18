@@ -1,0 +1,6 @@
+fold,test_size,correct,accuracy,macro_f1,provenance
+0,613,546,0.8907014681892332,0.8783996050892100,Module 5S user-supplied Colab console output
+1,612,551,0.9003267973856209,0.8874202608112423,Module 5S user-supplied Colab console output
+2,612,551,0.9003267973856209,0.8834951149560418,Module 5S user-supplied Colab console output
+3,612,545,0.8905228758169934,0.8714718817767598,Module 5S user-supplied Colab console output
+4,612,556,0.9084967320261438,0.8902258100956071,Module 5S user-supplied Colab console output

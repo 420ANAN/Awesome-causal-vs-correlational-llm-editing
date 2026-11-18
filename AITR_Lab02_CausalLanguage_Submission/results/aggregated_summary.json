@@ -1,0 +1,11 @@
+{
+  "mean_accuracy": 0.8980749341607226,
+  "sd_accuracy_ddof1": 0.007585466900178226,
+  "mean_macro_f1": 0.8822025345457721,
+  "sd_macro_f1_ddof1": 0.007464542238939849,
+  "pooled_correct": 2749,
+  "pooled_total": 3061,
+  "pooled_accuracy": 0.8980725253185233,
+  "pooled_macro_f1_from_genuine_log": 0.8821695585710827,
+  "source": "Actual user-provided Module 5S output. These are transcribed summary figures, not raw CSV predictions."
+}
