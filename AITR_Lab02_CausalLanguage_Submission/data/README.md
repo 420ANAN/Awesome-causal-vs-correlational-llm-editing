@@ -1,0 +1,2 @@
+# Data access / license
+No original PubMed CSV or unverified source–edit pairs are included. Source: https://github.com/junwang4/causal-language-use-in-science ; inspect origin, license and research conditions before fetching. Observed SHA256 `f3e50fb07bfe9c9dcbbe3bbfcf0a27e71d460e06895b2867002a61c34ee1f202`; verify locally. Code repository GPL-3.0 is visible; separate dataset-specific rights **[TO VERIFY]**. Class frequencies: `[1356,494,213,998]` (0: no relationship; 1: direct causal; 2: conditional causal; 3: correlation). Original row-level text not redistributed here.

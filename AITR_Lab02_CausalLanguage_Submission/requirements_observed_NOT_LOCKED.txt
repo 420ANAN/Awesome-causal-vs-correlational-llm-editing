@@ -1,0 +1,9 @@
+# OBSERVED VERSIONS ONLY. [TEST REQUIRED] DO NOT assume this is a compatible clean-install requirements lock.
+# The actual run was on Google Colab with preinstalled packages and previous setup history.
+transformers==5.22.1
+huggingface-hub==1.33.0
+numpy==2.4.6
+pandas==2.2.3
+scikit-learn==1.6.1
+safetensors==0.8.0
+# torch==2.14.1+cu130  # requires platform-specific distribution; deliberately NOT auto-installed
